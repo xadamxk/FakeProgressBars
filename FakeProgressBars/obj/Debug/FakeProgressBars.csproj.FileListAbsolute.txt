@@ -1,0 +1,10 @@
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\bin\Debug\FakeProgressBars.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\bin\Debug\FakeProgressBars.exe
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\bin\Debug\FakeProgressBars.pdb
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.Form1.resources
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.exe
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.pdb
+c:\users\adam\documents\visual studio 2013\Projects\FakeProgressBars\FakeProgressBars\obj\Debug\FakeProgressBars.ProgressBar.resources
