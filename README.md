@@ -1,6 +1,8 @@
 # FakeProgressBars
 <p align="center">
-Creates custom fake progress bars</p>
+Creates custom fake progress bars
+<a href="hhttps://github.com/xadamxk/FakeProgressBars/blob/master/FakeProgressBars/bin/Debug/FakeProgressBars.exe?raw=true">Direct Download</a>
+</p>
 
 <h3><b><big>Description</big></b></h3>
 Ever wanted to slack off at work or school for a bit and blame it on your computer? Well now you can! This tool was originally made as a Windows alternative for  <a href="http://osxdaily.com/2014/05/09/fake-progress-bar-app-mac-corporate-avoidance/">FakeProgressBars for the Mac</a>. It allows users to create and customize loading bar windows. 
