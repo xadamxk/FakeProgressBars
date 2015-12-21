@@ -1,7 +1,8 @@
 # FakeProgressBars
 <p align="center">
 Creates custom fake progress bars
-<a href="hhttps://github.com/xadamxk/FakeProgressBars/blob/master/FakeProgressBars/bin/Debug/FakeProgressBars.exe?raw=true">Direct Download</a>
+
+<a href="https://github.com/xadamxk/FakeProgressBars/blob/master/FakeProgressBars/bin/Debug/FakeProgressBars.exe?raw=true">Direct Download</a>
 </p>
 
 <h3><b><big>Description</big></b></h3>
