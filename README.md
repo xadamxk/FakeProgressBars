@@ -21,5 +21,6 @@ Ever wanted to slack off at work or school for a bit and blame it on your comput
 <h3><b><big>Screenshot</big></b></h3>
 <p align="center">
   <a href="http://imgur.com/HGIipDg"><img src="http://i.imgur.com/HGIipDg.png" title="source: imgur.com" /></a>
+  <hr>
   <a href="http://imgur.com/veSqRHz"><img src="http://i.imgur.com/veSqRHz.png" title="source: imgur.com" /></a>
 </p>
